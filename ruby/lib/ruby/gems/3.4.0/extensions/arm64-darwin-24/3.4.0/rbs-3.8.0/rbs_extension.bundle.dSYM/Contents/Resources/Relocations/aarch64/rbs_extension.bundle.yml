@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '../../../../../.bundle/extensions/arm64-darwin-24/3.4.0/rbs-3.8.0/rbs_extension.bundle'
+relocations:     []
+...

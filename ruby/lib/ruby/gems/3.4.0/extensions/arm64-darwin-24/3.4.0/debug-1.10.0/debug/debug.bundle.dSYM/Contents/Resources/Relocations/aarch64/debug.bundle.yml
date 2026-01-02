@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '../../../../../.bundle/extensions/arm64-darwin-24/3.4.0/debug-1.10.0/debug/debug.bundle'
+relocations:     []
+...

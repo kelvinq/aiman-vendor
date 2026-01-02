@@ -1,0 +1,24 @@
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/date-3.5.1/ext/date
+/Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/bin/ruby extconf.rb
+checking for rb_category_warn()... yes
+checking for timezone in time.h with -Werror... yes
+checking for altzone in time.h with -Werror... no
+creating Makefile
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/date-3.5.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251228-23073-853kd5 sitelibdir\=./.gem.20251228-23073-853kd5 clean
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/date-3.5.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251228-23073-853kd5 sitelibdir\=./.gem.20251228-23073-853kd5
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.bundle
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/date-3.5.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251228-23073-853kd5 sitelibdir\=./.gem.20251228-23073-853kd5 install
+/usr/bin/install -c -m 0755 date_core.bundle ./.gem.20251228-23073-853kd5
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/date-3.5.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251228-23073-853kd5 sitelibdir\=./.gem.20251228-23073-853kd5 clean

@@ -1,0 +1,19 @@
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/lib/ruby/gems/3.4.0/gems/erb-6.0.1/ext/erb/escape
+/Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/bin/ruby extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/lib/ruby/gems/3.4.0/gems/erb-6.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251228-19730-3hfgoe sitelibdir\=./.gem.20251228-19730-3hfgoe clean
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/lib/ruby/gems/3.4.0/gems/erb-6.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251228-19730-3hfgoe sitelibdir\=./.gem.20251228-19730-3hfgoe
+compiling escape.c
+linking shared-object erb/escape.bundle
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/lib/ruby/gems/3.4.0/gems/erb-6.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251228-19730-3hfgoe sitelibdir\=./.gem.20251228-19730-3hfgoe install
+/usr/bin/install -c -m 0755 escape.bundle ./.gem.20251228-19730-3hfgoe/erb
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/lib/ruby/gems/3.4.0/gems/erb-6.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251228-19730-3hfgoe sitelibdir\=./.gem.20251228-19730-3hfgoe clean

@@ -1,0 +1,18 @@
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251228-23073-bukvlx sitelibdir\=./.gem.20251228-23073-bukvlx clean
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251228-23073-bukvlx sitelibdir\=./.gem.20251228-23073-bukvlx
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251228-23073-bukvlx sitelibdir\=./.gem.20251228-23073-bukvlx install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251228-23073-bukvlx/racc
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251228-23073-bukvlx sitelibdir\=./.gem.20251228-23073-bukvlx clean

@@ -1,0 +1,18 @@
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/lib/ruby/gems/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+/Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/lib/ruby/gems/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20251228-19730-vy9gpk sitelibdir\=./.gem.20251228-19730-vy9gpk clean
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/lib/ruby/gems/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20251228-19730-vy9gpk sitelibdir\=./.gem.20251228-19730-vy9gpk
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/lib/ruby/gems/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20251228-19730-vy9gpk sitelibdir\=./.gem.20251228-19730-vy9gpk install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20251228-19730-vy9gpk
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/lib/ruby/gems/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20251228-19730-vy9gpk sitelibdir\=./.gem.20251228-19730-vy9gpk clean

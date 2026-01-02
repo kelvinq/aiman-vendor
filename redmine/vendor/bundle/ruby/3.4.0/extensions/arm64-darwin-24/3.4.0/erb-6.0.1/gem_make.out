@@ -1,0 +1,19 @@
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/erb-6.0.1/ext/erb/escape
+/Users/kelvinq18oct20/Coding/aiman/build/ruby-vendor/bin/ruby extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/erb-6.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251228-23073-bjvkq0 sitelibdir\=./.gem.20251228-23073-bjvkq0 clean
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/erb-6.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251228-23073-bjvkq0 sitelibdir\=./.gem.20251228-23073-bjvkq0
+compiling escape.c
+linking shared-object erb/escape.bundle
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/erb-6.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251228-23073-bjvkq0 sitelibdir\=./.gem.20251228-23073-bjvkq0 install
+/usr/bin/install -c -m 0755 escape.bundle ./.gem.20251228-23073-bjvkq0/erb
+
+current directory: /Users/kelvinq18oct20/Coding/aiman/build/redmine/vendor/bundle/ruby/3.4.0/gems/erb-6.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251228-23073-bjvkq0 sitelibdir\=./.gem.20251228-23073-bjvkq0 clean

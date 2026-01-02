@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '.ext/arm64-darwin24/enc/trans/emoji_sjis_docomo.bundle'
+relocations:     []
+...
